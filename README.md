@@ -4,10 +4,12 @@
 #### About Me
 
 저는 현재 구직중이고, 언젠가 풀스택 개발자가 되고싶은 꿈을 꾸고 있습니다.
+I`m looking for a job, I dreamed to become a full-stack developer.
 
 ### Tech Stack
 
 열심히 이런 기술들을 공부하고 적용중입니다.
+I`m studying and applying these stacks.
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -18,5 +20,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
 
 #### Welcome to my portfolio web site.
-제 웹사이트에 놀러오세요
+제 웹사이트에 놀러오세요<br>
 http://www.dpsl0629.com
