@@ -3,8 +3,8 @@
 
 #### About Me
 
-저는 현재 구직중이고, 언젠가 풀스택 개발자가 되고싶은 꿈을 꾸고 있습니다.<br>
-I`m looking for a job, I dreamed to become a full-stack developer.
+언젠가 풀스택 개발자가 되고싶은 꿈을 꾸고 있습니다.<br>
+I dreamed to become a full-stack developer.
 
 ### Tech Stack
 
