@@ -1,11 +1,6 @@
 ### Hi everyone! :smile:
 안녕하세요!
 
-#### About Me
-
-언젠가 풀스택 개발자가 되고싶은 꿈을 꾸고 있습니다.<br>
-I dreamed to become a full-stack developer.
-
 ### Tech Stack
 
 열심히 이런 stack들을 공부하고 적용중입니다.<br>
